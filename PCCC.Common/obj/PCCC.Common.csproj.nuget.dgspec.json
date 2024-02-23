@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Prj\\PCCC\\PCCC\\PCCC.Common\\PCCC.Common.csproj": {}
+    "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\PCCC.Common.csproj": {}
   },
   "projects": {
-    "D:\\Prj\\PCCC\\PCCC\\PCCC.Common\\PCCC.Common.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\PCCC.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Prj\\PCCC\\PCCC\\PCCC.Common\\PCCC.Common.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\PCCC.Common.csproj",
         "projectName": "PCCC.Common",
-        "projectPath": "D:\\Prj\\PCCC\\PCCC\\PCCC.Common\\PCCC.Common.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\PCCC.Common.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Prj\\PCCC\\PCCC\\PCCC.Common\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
