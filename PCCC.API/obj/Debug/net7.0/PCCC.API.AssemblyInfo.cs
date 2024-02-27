@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PCCC.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+136fb37840c0045162739eca3c605c5d12e71fdc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f82ad5c8b7d49e156ada2618f145f2302986a01c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PCCC.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PCCC.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

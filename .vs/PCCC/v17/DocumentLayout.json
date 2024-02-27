@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|solutionrelative:pccc.service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F02153-51E9-493B-8C8B-AE86F41D56EA}|PCCC.Repository\\PCCC.Repository.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.repository\\interfaces\\iauthentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F02153-51E9-493B-8C8B-AE86F41D56EA}|PCCC.Repository\\PCCC.Repository.csproj|solutionrelative:pccc.repository\\interfaces\\iauthentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|solutionrelative:pccc.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|solutionrelative:pccc.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\Interfaces\\ILoginService.cs",
+              "RelativeDocumentMoniker": "PCCC.Service\\Interfaces\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\Interfaces\\ILoginService.cs",
+              "RelativeToolTip": "PCCC.Service\\Interfaces\\ILoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:13:52.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthentityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Repository\\Interfaces\\IAuthentityRepository.cs",
+              "RelativeDocumentMoniker": "PCCC.Repository\\Interfaces\\IAuthentityRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Repository\\Interfaces\\IAuthentityRepository.cs*",
+              "RelativeToolTip": "PCCC.Repository\\Interfaces\\IAuthentityRepository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T07:57:38.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PCCC.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PCCC.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T07:49:55.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PCCC.API\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PCCC.API\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T04:07:41.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
