@@ -32,5 +32,8 @@
         public const int ERROR_PHONE_NOT_REGISTER = 1;
         public const string MESSAGE_PHONE_NOT_REGISTER = "Số điện thoại chưa được đăng ký";
 
+        // Token Type
+        public const string TOKEN_TYPE_CUSTOMER = "1";
+        public const string TOKEN_TYPE_USER = "2";
     }
 }

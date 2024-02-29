@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PCCC.Service", "PCCC.Servic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PCCC.Common", "PCCC.Common\PCCC.Common.csproj", "{1C374D44-87E6-4D42-819C-38E4C62363A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCCC.Repository", "PCCC.Repository\PCCC.Repository.csproj", "{30F02153-51E9-493B-8C8B-AE86F41D56EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PCCC.Repository", "D:\Prj\PCCC\PCCC\PCCC.Repository\PCCC.Repository.csproj", "{789B1F74-1BF6-4E76-8109-D28B594A1602}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{1C374D44-87E6-4D42-819C-38E4C62363A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C374D44-87E6-4D42-819C-38E4C62363A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C374D44-87E6-4D42-819C-38E4C62363A3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{30F02153-51E9-493B-8C8B-AE86F41D56EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30F02153-51E9-493B-8C8B-AE86F41D56EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{30F02153-51E9-493B-8C8B-AE86F41D56EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{30F02153-51E9-493B-8C8B-AE86F41D56EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789B1F74-1BF6-4E76-8109-D28B594A1602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789B1F74-1BF6-4E76-8109-D28B594A1602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789B1F74-1BF6-4E76-8109-D28B594A1602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789B1F74-1BF6-4E76-8109-D28B594A1602}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,9 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using PCCC.Data.Entities;
 
 namespace PCCC.Data;
 
-public partial class PcccContext : DbContext
+public partial class PcccContext : IdentityDbContext<IdentityUser>
 {
     public PcccContext()
     {

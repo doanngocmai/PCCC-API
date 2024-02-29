@@ -1,8 +1,19 @@
+using Microsoft.AspNetCore.Identity;
+using PCCC.Data;
+using PCCC.Service.Interfaces;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+
+.AddEntityFrameworkStores<PcccContext>()
+
+.AddDefaultTokenProviders();
+ 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

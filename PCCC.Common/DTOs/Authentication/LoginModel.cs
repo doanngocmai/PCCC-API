@@ -8,8 +8,8 @@ namespace PCCC.Common  .Models.Authentication
     public class LoginModel
     {
         [Required]
-        public string Phone { get; set; }
-        public string DeviceID { get; set; }
+        public string UserName { get; set; }
+        //public string DeviceID { get; set; }
         public string Password { get; set; }
     }
 }

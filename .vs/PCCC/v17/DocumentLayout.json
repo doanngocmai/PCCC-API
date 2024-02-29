@@ -3,20 +3,98 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|solutionrelative:pccc.service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C643EB00-2B5B-42DD-A484-4BDF941F9A15}|PCCC.Data\\PCCC.Data.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.data\\pccccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C643EB00-2B5B-42DD-A484-4BDF941F9A15}|PCCC.Data\\PCCC.Data.csproj|solutionrelative:pccc.data\\pccccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30F02153-51E9-493B-8C8B-AE86F41D56EA}|PCCC.Repository\\PCCC.Repository.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.repository\\interfaces\\iauthentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30F02153-51E9-493B-8C8B-AE86F41D56EA}|PCCC.Repository\\PCCC.Repository.csproj|solutionrelative:pccc.repository\\interfaces\\iauthentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|solutionrelative:pccc.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|solutionrelative:pccc.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.common\\dtos\\jsonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|solutionrelative:pccc.common\\dtos\\jsonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.common\\dtos\\jsonresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|solutionrelative:pccc.common\\dtos\\jsonresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.common\\dtos\\accounts\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|solutionrelative:pccc.common\\dtos\\accounts\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|solutionrelative:pccc.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.service\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|solutionrelative:pccc.service\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.service\\interfaces\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|solutionrelative:pccc.service\\interfaces\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789B1F74-1BF6-4E76-8109-D28B594A1602}|D:\\Prj\\PCCC\\PCCC\\PCCC.Repository\\PCCC.Repository.csproj|d:\\prj\\pccc\\pccc\\pccc.repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789B1F74-1BF6-4E76-8109-D28B594A1602}|D:\\Prj\\PCCC\\PCCC\\PCCC.Repository\\PCCC.Repository.csproj|d:\\prj\\pccc\\pccc\\pccc.repository\\interfaces\\irespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|solutionrelative:pccc.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|solutionrelative:pccc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|solutionrelative:pccc.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.service\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|solutionrelative:pccc.service\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.common\\dtos\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|solutionrelative:pccc.common\\dtos\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.common\\utils\\pcccconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|solutionrelative:pccc.common\\utils\\pcccconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|solutionrelative:pccc.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.common\\dtos\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|solutionrelative:pccc.common\\dtos\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.api\\middleware\\authorizeaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|solutionrelative:pccc.api\\middleware\\authorizeaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.common\\dtos\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|solutionrelative:pccc.common\\dtos\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643EB00-2B5B-42DD-A484-4BDF941F9A15}|PCCC.Data\\PCCC.Data.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C643EB00-2B5B-42DD-A484-4BDF941F9A15}|PCCC.Data\\PCCC.Data.csproj|solutionrelative:pccc.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.common\\utils\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C374D44-87E6-4D42-819C-38E4C62363A3}|PCCC.Common\\PCCC.Common.csproj|solutionrelative:pccc.common\\utils\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5BD136F-BF17-48FB-A1F6-802A0AE502FD}|PCCC.API\\PCCC.API.csproj|solutionrelative:pccc.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|c:\\users\\admin\\documents\\github\\pccc\\pccc.service\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C4CE660-8915-4CB7-9B87-80E1D0795C87}|PCCC.Service\\PCCC.Service.csproj|solutionrelative:pccc.service\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +104,310 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ILoginService.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\Interfaces\\ILoginService.cs",
-              "RelativeDocumentMoniker": "PCCC.Service\\Interfaces\\ILoginService.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\Interfaces\\ILoginService.cs",
-              "RelativeToolTip": "PCCC.Service\\Interfaces\\ILoginService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\DTOs\\Accounts\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "PCCC.Common\\DTOs\\Accounts\\LoginRequestModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\DTOs\\Accounts\\LoginRequestModel.cs",
+              "RelativeToolTip": "PCCC.Common\\DTOs\\Accounts\\LoginRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T10:13:52.514Z",
+              "WhenOpened": "2024-02-29T10:15:29.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IAuthentityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Repository\\Interfaces\\IAuthentityRepository.cs",
-              "RelativeDocumentMoniker": "PCCC.Repository\\Interfaces\\IAuthentityRepository.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Repository\\Interfaces\\IAuthentityRepository.cs*",
-              "RelativeToolTip": "PCCC.Repository\\Interfaces\\IAuthentityRepository.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PCCC.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PCCC.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwCQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T07:57:38.513Z",
+              "WhenOpened": "2024-02-29T10:14:23.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRespository.cs",
+              "DocumentMoniker": "D:\\Prj\\PCCC\\PCCC\\PCCC.Repository\\Interfaces\\IRespository.cs",
+              "ToolTip": "D:\\Prj\\PCCC\\PCCC\\PCCC.Repository\\Interfaces\\IRespository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:10:50.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Prj\\PCCC\\PCCC\\PCCC.Repository\\BaseRepository.cs",
+              "ToolTip": "D:\\Prj\\PCCC\\PCCC\\PCCC.Repository\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:09:58.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\Program.cs",
+              "RelativeDocumentMoniker": "PCCC.Service\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\Program.cs",
+              "RelativeToolTip": "PCCC.Service\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:38:57.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PcccContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Data\\PcccContext.cs",
+              "RelativeDocumentMoniker": "PCCC.Data\\PcccContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Data\\PcccContext.cs",
+              "RelativeToolTip": "PCCC.Data\\PcccContext.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAACIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:28:42.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "PCCC.Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\appsettings.json",
+              "RelativeToolTip": "PCCC.Service\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-29T09:10:29.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Program.cs",
+              "RelativeDocumentMoniker": "PCCC.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Program.cs",
+              "RelativeToolTip": "PCCC.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:57:47.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IServices.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\Interfaces\\IServices.cs",
+              "RelativeDocumentMoniker": "PCCC.Service\\Interfaces\\IServices.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\Interfaces\\IServices.cs",
+              "RelativeToolTip": "PCCC.Service\\Interfaces\\IServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:34:57.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "PCCC.Service\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\Services\\BaseService.cs",
+              "RelativeToolTip": "PCCC.Service\\Services\\BaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:32:34.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\DTOs\\Authentication\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "PCCC.Common\\DTOs\\Authentication\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\DTOs\\Authentication\\RegisterModel.cs",
+              "RelativeToolTip": "PCCC.Common\\DTOs\\Authentication\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:15:13.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\DTOs\\Authentication\\LoginModel.cs",
+              "RelativeDocumentMoniker": "PCCC.Common\\DTOs\\Authentication\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\DTOs\\Authentication\\LoginModel.cs",
+              "RelativeToolTip": "PCCC.Common\\DTOs\\Authentication\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:15:09.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "PCCC.Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Data\\Entities\\User.cs",
+              "RelativeToolTip": "PCCC.Data\\Entities\\User.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA8wCcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:31:24.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\DTOs\\User\\UserModel.cs",
+              "RelativeDocumentMoniker": "PCCC.Common\\DTOs\\User\\UserModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\DTOs\\User\\UserModel.cs",
+              "RelativeToolTip": "PCCC.Common\\DTOs\\User\\UserModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:31:15.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\libman.json",
+              "RelativeDocumentMoniker": "PCCC.Service\\libman.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\libman.json",
+              "RelativeToolTip": "PCCC.Service\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-27T08:19:41.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "PCCC.Service\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\MappingProfile.cs",
+              "RelativeToolTip": "PCCC.Service\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:17:15.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "PCCC.Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "PCCC.Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:12:24.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "PCCC.API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "PCCC.API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAnwB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:58:21.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "JsonResultModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\DTOs\\JsonResultModel.cs",
+              "RelativeDocumentMoniker": "PCCC.Common\\DTOs\\JsonResultModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\DTOs\\JsonResultModel.cs",
+              "RelativeToolTip": "PCCC.Common\\DTOs\\JsonResultModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:17:26.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\DTOs\\JsonResponse.cs",
+              "RelativeDocumentMoniker": "PCCC.Common\\DTOs\\JsonResponse.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\DTOs\\JsonResponse.cs",
+              "RelativeToolTip": "PCCC.Common\\DTOs\\JsonResponse.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:16:14.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\Utils\\Util.cs",
+              "RelativeDocumentMoniker": "PCCC.Common\\Utils\\Util.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\Utils\\Util.cs",
+              "RelativeToolTip": "PCCC.Common\\Utils\\Util.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwFUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:44:14.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PCCCConsts.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\Utils\\PCCCConsts.cs",
+              "RelativeDocumentMoniker": "PCCC.Common\\Utils\\PCCCConsts.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.Common\\Utils\\PCCCConsts.cs",
+              "RelativeToolTip": "PCCC.Common\\Utils\\PCCCConsts.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:39:53.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthorizeAction.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Middleware\\AuthorizeAction.cs",
+              "RelativeDocumentMoniker": "PCCC.API\\Middleware\\AuthorizeAction.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Middleware\\AuthorizeAction.cs",
+              "RelativeToolTip": "PCCC.API\\Middleware\\AuthorizeAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T03:56:23.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "PCCC.API\\Controllers\\WeatherForecastController.cs",
@@ -64,19 +415,8 @@
               "RelativeToolTip": "PCCC.API\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T07:49:55.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PCCC.API\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\PCCC\\PCCC.API\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PCCC.API\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T04:07:41.77Z"
+              "WhenOpened": "2024-02-23T07:49:55.049Z",
+              "EditorCaption": ""
             }
           ]
         }
